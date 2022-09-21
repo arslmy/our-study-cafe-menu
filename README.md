@@ -1,9 +1,11 @@
-# Our Study Cafe
+# Our Study Cafe Menu
 
 ## Description
 * Why I Build This Project?
+
 		This is my second project, I build this for practicing my beginner skills at HTML and CSS.
 * Why I Have Learned From Building This Project?
+
 		I've learned the use of display: inline-block and making the styles of the website more clear and tidy.
 
 ## How To Use
